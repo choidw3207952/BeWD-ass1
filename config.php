@@ -1,9 +1,9 @@
 <?php
 
-$host       = "localhost";
-$username   = "root";
-$password   = "root";
-$dbname     = "Dawoon_test"; 
+$host       = "35.213.222.186";
+$username   = "choidw0119@dawoonc.sg-host.com";
+$password   = "act688688";
+$dbname     = "db697285w7ztcc"; 
 $dsn        = "mysql:host=$host;dbname=$dbname"; 
 $options    = array(
                 PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
